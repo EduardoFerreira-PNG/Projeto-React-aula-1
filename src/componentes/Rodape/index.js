@@ -2,7 +2,7 @@ import "./Rodape.css"
 
 const Rodape = () => {
     return(
-        <div className="rodape">
+        <div className="footer">
             <div className="redes__sociais">
                 <img src="./imagens/fb.png" alt="icone facebook png" />
                 <img src="./imagens/tw.png" alt="icone twitter png" />

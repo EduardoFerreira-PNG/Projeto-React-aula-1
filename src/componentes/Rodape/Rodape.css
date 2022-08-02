@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-.rodape{
+.footer{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
@@ -14,18 +14,18 @@
     background-color: #5068F1;
 }
 
-.rodape img{
+.footer img{
     width: 140px;
     cursor: pointer;
     
 }
 
-.rodape img:hover{
+.footer img:hover{
     transform: translateY(-10px);
     transition: 0.3s;
 }
 
-.rodape p{
+.footer p{
     color: #fff;
     font-size: 18px;
 }
